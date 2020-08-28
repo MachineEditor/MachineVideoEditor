@@ -58,4 +58,4 @@ MVE is currently not open source but may be in the future if it makes sense, thi
 <p>Image scrappers bing, getty, google</p>
 <p>LJNormalize normalization script</p>
 
-<p>GPL code is licenced as <a href="https://www.gnu.org/licenses/gpl-faq.en.html#MereAggregation">aggregate</a>. Script are executed via command line and their output is a file or text.</p>
+<p>GPL code is handled as <a href="https://www.gnu.org/licenses/gpl-faq.en.html#MereAggregation">aggregate</a>. Script are executed via command line and their output is a file or text.</p>
