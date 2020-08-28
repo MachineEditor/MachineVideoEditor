@@ -20,7 +20,7 @@ MVE is a free community supported tool for deepfake project management from data
 Focus of MVE is project management, have all your deepfake resources in a single project folder, and set data curating with tools for data scrapping, extracting, advanced sorting methods, set analysis, augmentation and manual face and mask editor tools.
 </p>
 
-<p>j
+<p>
 MVE is currently not open source but may be in the future if it makes sense, this repository contains external open source projects that are use within the editor, projects are list bellow.
 </p>
 
