@@ -1,0 +1,15 @@
+numpy==1.17.4
+opencv-python==4.1.2.30
+tqdm
+beautifulsoup4
+fake-useragent
+Pillow==6.2.1
+requests
+selenium
+fastcluster
+tensorflow-gpu==1.14.0
+h5py==2.9.0
+Keras==2.2.4
+click
+inflect
+# scikit-image==0.14.2 required if using DFL estimate sharpness
