@@ -14,7 +14,7 @@
 # Introduction
 
 <p>
-MVE is a free community supported tool for deepfake project management from data gathering to compositing, it fully supports DeepFaceLab and data format, more supported projects are planned in the future.</p>
+MVE is a free, community supported tool for deepfake project management from data gathering to compositing, it fully supports DeepFaceLab and data format, more supported projects are planned in the future.</p>
 
 <p>
 Focus of MVE is project management, have all your deepfake resources in a single project folder, and set data curating with tools for data scrapping, extracting, advanced sorting methods, set analysis, augmentation and manual face and mask editor tools.
