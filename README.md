@@ -17,11 +17,11 @@
 MVE is a free, community supported tool for deepfake project management from data gathering to compositing, it fully supports DeepFaceLab and data format, more supported projects are planned in the future.</p>
 
 <p>
-Focus of MVE is project management, have all your deepfake resources in a single project folder, and set data curating with tools for data scrapping, extracting, advanced sorting methods, set analysis, augmentation and manual face and mask editor tools.
+Focus of MVE is project management, to have all your deepfake resources in a single project folder, and set data curating with tools for data scrapping, extracting, advanced sorting methods, set analysis, augmentation and manual face and mask editor tools.
 </p>
 
 <p>
-MVE is currently not open source but may be in the future if it makes sense, this repository contains external open source projects that are use within the editor, projects are list bellow.
+MVE is currently not open source but may be in the future if it makes sense. This repository contains external open source projects that are used within the editor, projects are listed bellow.
 </p>
 
 
@@ -32,7 +32,7 @@ MVE is currently not open source but may be in the future if it makes sense, thi
 ## Download
 
 <p>Windows version <a href="https://drive.google.com/file/d/1PyxWCdQM4iVVsjk60e-zazt5gApAZhhQ/view?usp=sharing">https://drive.google.com/file/d/1PyxWCdQM4iVVsjk60e-zazt5gApAZhhQ/view?usp=sharing</a></p>
-<p>Linux version <a href="  https://drive.google.com/file/d/1jGLaSnpi3RBuDeWacyEXGxEWNoeYUPK0/view?usp=sharing"> https://drive.google.com/file/d/1jGLaSnpi3RBuDeWacyEXGxEWNoeYUPK0/view?usp=sharing</a></p>
+<p>Linux version <a href="https://drive.google.com/file/d/1jGLaSnpi3RBuDeWacyEXGxEWNoeYUPK0/view?usp=sharing"> https://drive.google.com/file/d/1jGLaSnpi3RBuDeWacyEXGxEWNoeYUPK0/view?usp=sharing</a></p>
 
 ## Comuncation
 
