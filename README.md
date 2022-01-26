@@ -31,8 +31,8 @@ MVE is currently not open source but may be in the future if it makes sense, thi
 
 ## Download
 
-<p>Windows version <a href="https://drive.google.com/file/d/1PyxWCdQM4iVVsjk60e-zazt5gApAZhhQ/view?usp=sharing">https://drive.google.com/file/d/1PyxWCdQM4iVVsjk60e-zazt5gApAZhhQ/view?usp=sharing</a></p>
-<p>Linux version <a href="  https://drive.google.com/file/d/1jGLaSnpi3RBuDeWacyEXGxEWNoeYUPK0/view?usp=sharing"> https://drive.google.com/file/d/1jGLaSnpi3RBuDeWacyEXGxEWNoeYUPK0/view?usp=sharing</a></p>
+<p>Windows version <a href="https://drive.google.com/file/d/14q3opqe1C4v9eqBO9Zgz1CC9lNrSO4of/view?usp=sharing">https://drive.google.com/file/d/14q3opqe1C4v9eqBO9Zgz1CC9lNrSO4of/view?usp=sharing</a></p>
+<p>Linux version <a href="https://drive.google.com/file/d/153Pi4HsC7xsdHrKDa3K52vN2c7wV_CLC/view?usp=sharing"> https://drive.google.com/file/d/153Pi4HsC7xsdHrKDa3K52vN2c7wV_CLC/view?usp=sharing</a></p>
 
 ## Comuncation
 
