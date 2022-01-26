@@ -40,7 +40,7 @@ MVE is currently not open source but may be in the future if it makes sense. Thi
 
 ## Support development
 
-<p>Development of this application is not possiable without the support of project backers. To contribute to the project become a backer on Patreon or if you prefer single playment donate via PayPal</p>
+<p>Development of this application is not possible without the support of project backers. To contribute to the project become a backer on Patreon or if you prefer single payment donate via PayPal</p>
 
 <p>Patreon <a href="https://www.patreon.com/machineeditor">https://www.patreon.com/machineeditor</a></p>
 
@@ -50,7 +50,7 @@ MVE is currently not open source but may be in the future if it makes sense. Thi
 
 # External projects
 
-<p>MVE additionally use several open source projects or parts of them and they have their own licences. External project code is available in this repository.</p>
+<p>MVE additionally use several open source projects or parts of them and they have their own licenses. External project code is available in this repository.</p>
 
 ### External projects
 <p>DeepFaceLab and FaceSwap code snippets for data import/export and sorting</p>
