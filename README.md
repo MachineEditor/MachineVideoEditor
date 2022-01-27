@@ -27,16 +27,16 @@ MVE is currently not open source but may be in the future if it makes sense. Thi
 
 ## Documentation
 
-<p>Documentation and tutorials are still work in progress, current available tutorials are located in the discord server <a href="https://discord.gg/KBQB8x9K5c"https://discord.gg/KBQB8x9K5c</a></p>
+<p>Documentation and tutorials are still work in progress, current available tutorials are located in the discord server <a href="https://discord.gg/KBQB8x9K5c">https://discord.gg/KBQB8x9K5c</a></p>
 
 ## Download
 
 <p>Windows version <a href="https://drive.google.com/file/d/14q3opqe1C4v9eqBO9Zgz1CC9lNrSO4of/view?usp=sharing">https://drive.google.com/file/d/14q3opqe1C4v9eqBO9Zgz1CC9lNrSO4of/view?usp=sharing</a></p>
 <p>Linux version <a href="https://drive.google.com/file/d/153Pi4HsC7xsdHrKDa3K52vN2c7wV_CLC/view?usp=sharing"> https://drive.google.com/file/d/153Pi4HsC7xsdHrKDa3K52vN2c7wV_CLC/view?usp=sharing</a></p>
 
-## Comuncation
+## Communication
 
-<p>Discord link <a href="https://discord.gg/BSnt5Fv">https://discord.gg/BSnt5Fv</a></p>
+<p>Discord link <a href="https://discord.gg/KBQB8x9K5c">https://discord.gg/KBQB8x9K5c</a></p>
 
 ## Support development
 
