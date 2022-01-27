@@ -27,7 +27,7 @@ MVE is currently not open source but may be in the future if it makes sense. Thi
 
 ## Documentation
 
-<p>Documentation and tutorials are still work in progress, current available tutorials are located in the discord server <a href="https://discord.gg/BSnt5Fv">https://discord.gg/BSnt5Fv</a></p>
+<p>Documentation and tutorials are still work in progress, current available tutorials are located in the discord server <a href="https://discord.gg/KBQB8x9K5c"https://discord.gg/KBQB8x9K5c</a></p>
 
 ## Download
 
