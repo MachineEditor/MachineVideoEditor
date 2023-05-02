@@ -27,12 +27,12 @@ MVE is currently not open source but may be in the future if it makes sense. Thi
 
 ## Documentation
 
-<p>Documentation and tutorials are still work in progress, current available tutorials are located in the discord server <a href="https://discord.gg/KBQB8x9K5c">https://discord.gg/KBQB8x9K5c</a></p>
+<p>Documentation and tutorials are still work in progress, current available tutorials are located in the discord server <a href="https://discord.gg/KBQB8x9K5c">https://discord.gg/KBQB8x9K5c</a> and on the <a href="https://github.com/MachineEditor/MachineVideoEditor/wiki">project Wiki</a></p>
 
 ## Download
-
-<p>Windows version <a href="https://drive.google.com/file/d/1Qhj4HOmmvQrKH8To_gDGQpKhvzEU7IzM/view?usp=sharing">https://drive.google.com/file/d/14q3opqe1C4v9eqBO9Zgz1CC9lNrSO4of/view?usp=sharing</a></p>
-<p>Linux version <a href="https://drive.google.com/file/d/1vJ3bj18fe86OIigQHrb3fUsbz33pc2Jw/view?usp=sharing"> https://drive.google.com/file/d/153Pi4HsC7xsdHrKDa3K52vN2c7wV_CLC/view?usp=sharing</a></p>
+<p>You can find all versions of MVE on the project's Discord server under <i>#mve-releases</i></p>
+<p>Windows version <a href="https://drive.google.com/file/d/1nu7Q7cVvKUkZUeRP8Owtw6_43UZyTZy4/view">https://drive.google.com/file/d/1nu7Q7cVvKUkZUeRP8Owtw6_43UZyTZy4/view</a></p>
+<p>Linux version <a href="https://drive.google.com/file/d/1ja1qRV3P1jFKgec3iNTadjl2eRGRYtbX/view">https://drive.google.com/file/d/1ja1qRV3P1jFKgec3iNTadjl2eRGRYtbX/view</a></p>
 
 ## Communication
 
